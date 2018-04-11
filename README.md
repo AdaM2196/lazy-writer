@@ -1,2 +1,5 @@
 # lazy-writer
-My very first repository
+Yay! My very first repository
+
+Hi there,
+My name is Adaobi.
